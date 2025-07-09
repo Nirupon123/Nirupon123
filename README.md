@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a Prefinal-year B.Tech CSE student who loves working on **AI, Machine Learning, Deep Learning**, and backend development using the **MERN stack**. I specialize in building practical solutions that combine AI with scalable backend systems.
+I'm a Prefinal-year B.Tech CSE student who loves working on **AI, Machine Learning, Deep Learning**, and Web development using the **MERN stack**. I specialize in building practical solutions that combine AI with scalable backend systems.
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nirupon123&theme=juicyfresh" alt="NiruponPal" /></a> </p>
