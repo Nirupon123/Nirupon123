@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](banner.mp4)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Nirupon Pal </h1>
 <h3 align="center">Funny Developer | Fullstack Developer (MERN) | AI Developer  </h3>
