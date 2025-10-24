@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Nirupon123/Nirupon123/blob/main/large_banner.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Nirupon Pal </h1>
-<h3 align="center">Funny Developer | Fullstack Developer (MERN) | AI Developer  </h3>
+<h3 align="center">Funny Developer | Fullstack Developer | AI Developer  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niruponpal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
