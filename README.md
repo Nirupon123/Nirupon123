@@ -55,6 +55,9 @@ I’ve worked on:
 ---
 
 ### 🏆 Hackathon Highlights
+- 🏅 SIH 2025 Internal Winner 
+- 🏅 NASA Space App Challenge Regional Winner 
+- 🏅 IIIT Kalyani StatusCode 2.o winner
 - 🏅 Hack4Bengal 2025 Finalist
 - 🏅 Hexafalls 2025 winner
 - 🏅 Diversion 2025 winner
