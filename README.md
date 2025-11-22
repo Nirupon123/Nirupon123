@@ -55,6 +55,7 @@ I’ve worked on:
 ---
 
 ### 🏆 Hackathon Highlights
+- 🏅 Infosys Global Hackathon Finalist 
 - 🏅 SIH 2025 Internal Winner 
 - 🏅 NASA Space App Challenge Regional Winner 
 - 🏅 IIIT Kalyani StatusCode 2.o winner
