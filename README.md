@@ -20,7 +20,7 @@ I’ve worked on:
 - 🧠 AI explainability with **LangChain + RAG + FAISS + Whisper**
 - 📷 Vision systems using **YOLO, EfficientNet, ConvNeXt, more..**
 - 🌍 GeoAI models using **Remote-sensing, reverse geocoding, satellite verification**
-- 🧾 Backend APIs using **Node.js+ Express.js + MongoDB + Redis**
+- 🧾 Backend APIs using **FastAPI and Django**
 - 🧪 MLOps pipelines with **Vercel+ Netlify+ Render+ GitHub Actions**
 
  I love combining deep tech with real-world use cases.
