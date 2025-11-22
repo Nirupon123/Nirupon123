@@ -31,7 +31,7 @@ I’ve worked on:
 ### 💡 Core Interests
 - 🔍 Deep Learning & Vision & Sound Pocessing
 - 🗣️ Language Models & RAG-based search
-- 🌐 Backend Development with Node.js + Express
+- 🌐 Backend Development with FastAPI and Django
 - ⚙️ MLOps & scalable infrastructure
 - 🧠 Ethical AI for public systems
 
