@@ -70,13 +70,16 @@ I’ve worked on:
 - NeuralProphet, OpenCV, Grad-CAM, Prophet, Efficientnetb0, Efficientnetv2-rw, ConvNext, other models.
 
 #### 🌐 Backend & Web:
-- Node.js, Express.js(Learning), MongoDB     
-- React.js, TailwindCSS, Firebase, Lucid-React.js, Vite, Next.js(Learning),React-bites
+- Django, FastAPI      
+- React.js, TailwindCSS, Firebase, Vite, Next.js(Learning),React-bites
 
 #### 🔎 Tools & APIs:
 - VScode, WebStrom, Eclipse , Cursour, Vim
 - WeatherAPI, Bhulekh APIs, Remote-sensing, Google Earth Engine
 - Postman,  Git, Github, Vercel, Netlify
+
+#### 🔎 Cloud Services:
+- AWS(Learning)
 
 ---
 
