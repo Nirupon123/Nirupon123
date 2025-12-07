@@ -1,106 +1,105 @@
-![Banner](https://github.com/Nirupon123/Nirupon123/blob/main/large_banner.gif)
+<br clear="both">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Nirupon Pal </h1>
-<h3 align="center">Funny Developer | Fullstack Developer | AI Developer  </h3>
+<div align="center">
+  <img height="241" src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niruponpal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+###
 
----
+<h1 align="center">Hey 👋What's Up?</h1>
 
-### 🚀 About Me
+###
 
-I'm a Prefinal-year B.Tech CSE student who loves working on **AI, Machine Learning, Deep Learning**, and Web development using the **MERN stack**. I specialize in building practical solutions that combine AI with scalable backend systems.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="60" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+</div>
 
+###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nirupon123&theme=juicyfresh" alt="NiruponPal" /></a> </p>
+<h1 align="left"></h1>
 
-I’ve worked on:
-- 🧠 AI explainability with **LangChain + RAG + FAISS + Whisper**
-- 📷 Vision systems using **YOLO, EfficientNet, ConvNeXt, more..**
-- 🌍 GeoAI models using **Remote-sensing, reverse geocoding, satellite verification**
-- 🧾 Backend APIs using **FastAPI and Django**
-- 🧪 MLOps pipelines with **Vercel+ Netlify+ Render+ GitHub Actions**
+###
 
- I love combining deep tech with real-world use cases.
+<p align="center">A Prefinal-year B.Tech CSE student who loves working on Scalable AI, Machine Learning, Deep Learning, and Web development. I specialize in building practical solutions that combine AI with scalable backend systems.</p>
 
+###
 
-<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/0STUSfNDTAkAAAAd/crazy-b-stupid-house-poopino.gif"/>
+<div align="center">
+  <a href="https://x.com/NiruponPal?s=08" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nirupon-pal-413a3b345" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/tf.nirupon?igsh=dzR6NjE4bTJ0dWdr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
-### 💡 Core Interests
-- 🔍 Deep Learning & Vision & Sound Pocessing
-- 🗣️ Language Models & RAG-based search
-- 🌐 Backend Development with FastAPI and Django
-- ⚙️ MLOps & scalable infrastructure
-- 🧠 Ethical AI for public systems
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nirupon123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Nirupon123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirupon123&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### 💡 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+###
 
----
+<h1 align="left">Achievements</h1>
 
-### 🔗 Let’s Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/niruponpal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/NiruponPal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="niruponpal2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+###
 
----
+<p align="left">🏅 Infosys Global Hackathon Finalist<br>🏅 SIH 2025 Internal Winner<br>🏅 NASA Space App Challenge Regional Winner<br>🏅 IIIT Kalyani StatusCode 2.o winner<br>🏅 Hack4Bengal 2025 Finalist<br>🏅 Hexafalls 2025 winner<br>🏅 Diversion 2025 winner<br>🏅 Jadavpur University SparkHack top 10</p>
 
-### 🏆 Hackathon Highlights
-- 🏅 Infosys Global Hackathon Finalist 
-- 🏅 SIH 2025 Internal Winner 
-- 🏅 NASA Space App Challenge Regional Winner 
-- 🏅 IIIT Kalyani StatusCode 2.o winner
-- 🏅 Hack4Bengal 2025 Finalist
-- 🏅 Hexafalls 2025 winner
-- 🏅 Diversion 2025 winner
-- 🏅 Jadavpur University SparkHack top 10
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirupon123/Nirupon123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirupon123/Nirupon123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nirupon123/Nirupon123/output/pacman-contribution-graph.svg">
+</picture>
 
-#### 🧠 AI/ML:
-- PyTorch, TensorFlow, Transformers, Keras, Scikit-Learn,Librosa , NumPy, Pandas , MatPlotLib , Rasterio, GeoPandas, GDal , Earthpy
-- NeuralProphet, OpenCV, Grad-CAM, Prophet, Efficientnetb0, Efficientnetv2-rw, ConvNext, other models.
+###
 
-#### 🌐 Backend & Web:
-- Django, FastAPI      
-- React.js, TailwindCSS, Firebase, Vite, Next.js(Learning),React-bites
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&section=header&reversal=false&text=Sayonara...&fontSize=55&fontColor=FDFBD4&fontAlign=50&fontAlignY=50&rotate=0&stroke=#FDFBD4&strokeWidth=-54&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-#### 🔎 Tools & APIs:
-- VScode, WebStrom, Eclipse , Cursour, Vim
-- WeatherAPI, Bhulekh APIs, Remote-sensing, Google Earth Engine
-- Postman,  Git, Github, Vercel, Netlify
-
-#### 🔎 Cloud Services:
-- AWS(Learning)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nirupon123&theme=merko&show_icons=true&hide_border=false&count_private=true" />
-   
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirupon123&theme=merko&show_icons=true&hide_border=false&layout=compact" />
-</p>
-
-
----
-
-### 🌱 Hobbies & Passion
-- 🧠 Reading about AI governance, decentralization, ethical ML
-- 💻 Backend system design & architecture deep dives
-- 🎧 Indie Bengali music, late-night debugging marathons
-
----
-
-<p align="center">
-<em>“I believe AI should serve the last person standing in the queue.”</em>
-</p>
+###
