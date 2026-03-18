@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">🏅 Infosys Global Hackathon Finalist<br>🏅 SIH 2025 Internal Winner<br>🏅 NASA Space App Challenge Regional Winner<br>🏅 IIIT Kalyani StatusCode 2.o winner<br>🏅 Hack4Bengal 2025 Finalist<br>🏅 Hexafalls 2025 winner<br>🏅 Diversion 2025 winner<br>🏅 Jadavpur University SparkHack top 10</p>
+<p align="left">🏅 Infosys Global Hackathon Finalist<br>🏅 SIH 2025 Internal Winner<br>🏅 NASA Space App Challenge Regional Winner<br>🏅 MLH IIIT Kalyani StatusCode 2.o winner<br>🏅 Hack4Bengal 2025 Finalist<br>🏅 Hexafalls 2025 winner<br>🏅 MLH Diversion 2025 winner<br>🏅 Jadavpur University SparkHack top 10</p>
 
 ###
 
